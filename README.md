@@ -14,3 +14,12 @@ while i<=a:
      fact=fact+i
      i=i+1
 print("The factorial of the number is "+str(fact))
+
+
+a=int(input("Enter the number="))
+b=int(input("Enter the number="))
+if a>b:
+   print("A is the greater number")
+else:
+   print(B is the greater number")
+   
